@@ -1,0 +1,136 @@
+[
+  {
+    "ean13": "4006381333931",
+    "name": "4G LTE Router",
+    "category": "Networking Hardware",
+    "type": "hardware",
+    "brand": "Netgear",
+    "price": 129.99,
+    "features": ["Dual-band", "SIM slot", "WiFi 802.11ac", "Gigabit ports"]
+  },
+  {
+    "ean13": "4006381333948",
+    "name": "Fiber Optic Cable",
+    "category": "Cabling",
+    "type": "hardware",
+    "brand": "Corning",
+    "price": 0.75,
+    "unit": "per meter",
+    "features": ["Single-mode", "Low attenuation", "UV resistant"]
+  },
+  {
+    "ean13": "4006381333955",
+    "name": "VoIP Phone",
+    "category": "Telephony Equipment",
+    "type": "hardware",
+    "brand": "Cisco",
+    "price": 169.00,
+    "features": ["HD audio", "PoE support", "SIP compatibility"]
+  },
+  {
+    "ean13": "4006381333962",
+    "name": "Network Management Software",
+    "category": "Software",
+    "type": "software",
+    "brand": "SolarWinds",
+    "price": 1495.00,
+    "license": "Annual",
+    "features": ["Real-time monitoring", "Alerts", "SNMP support"]
+  },
+  {
+    "ean13": "4006381333979",
+    "name": "Mobile Signal Booster",
+    "category": "Signal Enhancement",
+    "type": "hardware",
+    "brand": "weBoost",
+    "price": 399.99,
+    "features": ["Supports all carriers", "Indoor use", "5G ready"]
+  },
+  {
+    "ean13": "4006381333986",
+    "name": "Telecom Billing Platform",
+    "category": "Software",
+    "type": "software",
+    "brand": "Amdocs",
+    "price": 25000.00,
+    "license": "Enterprise",
+    "features": ["Customer management", "Real-time charging", "Multi-tenant"]
+  },
+  {
+    "ean13": "4006381333993",
+    "name": "5G Small Cell",
+    "category": "Wireless Infrastructure",
+    "type": "hardware",
+    "brand": "Ericsson",
+    "price": 4500.00,
+    "features": ["Low-latency", "Indoor/outdoor", "Carrier-grade"]
+  },
+  {
+    "ean13": "4006381334006",
+    "name": "PBX System",
+    "category": "Telephony Equipment",
+    "type": "hardware",
+    "brand": "Avaya",
+    "price": 3200.00,
+    "features": ["Voicemail", "Call routing", "IVR"]
+  },
+  {
+    "ean13": "4006381334013",
+    "name": "Telecom Tower Antenna",
+    "category": "Infrastructure",
+    "type": "hardware",
+    "brand": "Kathrein",
+    "price": 6500.00,
+    "features": ["High gain", "Multiband", "Weather-resistant"]
+  },
+  {
+    "ean13": "4006381334020",
+    "name": "SIM Card Management Platform",
+    "category": "Software",
+    "type": "software",
+    "brand": "Thales",
+    "price": 18000.00,
+    "license": "Enterprise",
+    "features": ["Remote provisioning", "eSIM support", "API integration"]
+  },
+  {
+    "ean13": "4006381334037",
+    "name": "Mobile Voice & Data Plan",
+    "category": "Consumer Services",
+    "type": "service",
+    "provider": "Verizon",
+    "price": 65.00,
+    "billing": "Monthly",
+    "features": ["Unlimited calls", "100GB 5G data", "Hotspot support"]
+  },
+  {
+    "ean13": "4006381334044",
+    "name": "Fiber Internet Service",
+    "category": "Fixed Broadband",
+    "type": "service",
+    "provider": "AT&T",
+    "price": 80.00,
+    "billing": "Monthly",
+    "features": ["1 Gbps speed", "Unlimited data", "Free installation"]
+  },
+  {
+    "ean13": "4006381334051",
+    "name": "International Roaming Package",
+    "category": "Add-on Services",
+    "type": "service",
+    "provider": "Vodafone",
+    "price": 25.00,
+    "billing": "Per week",
+    "features": ["5GB data", "100 minutes", "30 countries"]
+  },
+  {
+    "ean13": "4006381334068",
+    "name": "Managed Network Services",
+    "category": "Enterprise Services",
+    "type": "service",
+    "provider": "BT Group",
+    "price": 1200.00,
+    "billing": "Monthly",
+    "features": ["24/7 monitoring", "SLAs", "Custom configurations"]
+  }
+]
